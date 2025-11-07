@@ -1,2 +1,7 @@
 Link for Dataset:https://www.kaggle.com/datasets/yasserh/uber-fares-dataset
 Link for Dataset:https://www.kaggle.com/datasets/abdallamahgoub/diabetes
+
+5. Implement K-Means clustering/ hierarchical clustering on
+sales_data_sample.csv dataset. Determine the number of clusters using
+the elbow method.
+Dataset link : https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
